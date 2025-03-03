@@ -10,11 +10,13 @@ I am a Computer Science and Entrepreneurship student at Reichman University with
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/danik.toporovskiy" target="blank"><i align="center" class="devicon-twitter-original" alt="Daniel Toporovsky" height="40" width="60" ></i>
+<a href="https://www.facebook.com/danik.toporovskiy" target="blank"><img align="left" src="https://cdn.simpleicons.org/facebook/0866FF" height="40" width="40" ></i>
 </a>
-<a href="www.linkedin.com/in/daniel-toporovsky💡-160199309" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Daniel Toporovsky" height="40" width="60" ></i>
+<a href="www.linkedin.com/in/daniel-toporovsky💡-160199309" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40" width="60" ></i>
 </a>
 </p>
+
+
 
 
 ------
@@ -42,6 +44,6 @@ I am a Computer Science and Entrepreneurship student at Reichman University with
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=ps,postman,gradle,latex"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=ps,postman,gradle,latex,raspberrypi"/></td>
     </tr>
 </table>
